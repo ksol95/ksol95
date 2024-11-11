@@ -5,9 +5,11 @@
    jobSearch: true
 }
 ```
- - 📞 [https://t.me/prikladmarket](https://t.me/prikladmarket)
- - ✉️ [ksol95@ya.ru](mailto://ksol95@ya.ru)
- - 🏠 Тольятти
+📞 [https://t.me/prikladmarket](https://t.me/prikladmarket)
+
+✉️ [ksol95@ya.ru](mailto://ksol95@ya.ru)
+
+🏠 Тольятти
 
    
 ![line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
